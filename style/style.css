@@ -1,0 +1,41 @@
+html, body{
+	background: url(../img/10.jpg) no-repeat center fixed;
+	background-size: cover;
+	background-color: #c8d6e9;
+}
+
+p{
+	text-indent: 25px;
+}
+
+#hed{
+	text-align: center;
+	font-size: 70px;
+	color: #f76542;
+	font-weight: 600;
+}
+
+#navBar{
+	background-color: #007bff!important;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+#navMenu{
+	margin-bottom: 10px;
+}
+
+#content{
+	background: rgba(214, 255, 0, 0.44);
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.d-flex{
+	 background: #007bff;
+	 border-radius: 5px;
+}
+
+.footer {
+  flex: 0 0 auto;
+}
